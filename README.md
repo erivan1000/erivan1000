@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @erivan1000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey, I'm Erivan Oliveira! 👋
+I have a degree in Information Systems, I've been studying front-end since 2020. 💻
 
-<!---
-erivan1000/erivan1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 " Front-end Developer passionate about lines of code and coffee. " ☕️
+📍 São Paulo - BR
+💻 Front-End developer
+🌱 I am currently learning everything about HTML, CSS, Javascript and Angular.
